@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExponentialNumberWithRecursive {
+public class PrimeNumberWithRecursive {
 	
 	static boolean isPrime(int n, int temp) {
         if(temp == 1) {
